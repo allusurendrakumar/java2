@@ -3,6 +3,12 @@
   inputs:
     script: |
       javac java2.java
+      
+      java java2
+- task: CmdLine@2
+  inputs:
+    script: |
+      javac java2.java
       java java2
 # Build your Java project and run tests with Apache Maven.
 # Add steps that analyze code, save build artifacts, deploy, and more:
