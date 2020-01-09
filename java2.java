@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*; 
   
 // Class of ReverseString 
-class ReverseString 
+class Java2 
 { 
     public static void main(String[] args) 
     { 
